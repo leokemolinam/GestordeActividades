@@ -24,6 +24,10 @@ Brindar mediante el desarrollo de un aplicativo una herramienta que permita la g
 
 ![alt text](http://drive.google.com/uc?export=view&id=1lDhpLRZipDaGE6stJ1_rnDbqxQfkmbFh)
 
+# ESTIMACIÓN:
+
+![alt text](http://drive.google.com/uc?export=view&id=1stqfzlVlcA3eQMiC2U6DvylsTFtylLce)
+
 # Conctacto
   El proyecto se realiza por:
   
